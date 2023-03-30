@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="Loft">Лофт</string>
+    <string name="address">Address</string>
+    <string name="this_is_a_text_view">This is a text view!</string>
+    <string name="coordinates">Координаты</string>
+    <string name="is_easy_accessible">Is easy accessible</string>
+    <string name="working_hours">Working hours</string>
+    <string name="pushkino_address">Пушкино Лофт, Пушкино, МО, РФ</string>
+    <string name="is_easy_accessible_answer">Да</string>
+    <string-array name="sites">
+        <item>Лофт</item>
+        <item>Красное белое</item>
+        <item>Кальянная</item>
+    </string-array>
+
+
+</resources>
